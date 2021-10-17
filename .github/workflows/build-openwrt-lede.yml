@@ -28,8 +28,8 @@ env:
   UPLOAD_WETRANSFER: false
   DELETE_RELEASE: true
   DELETE_ARTIFACTS: true
-  RECENT_LASTEST: 0
-  TZ: Asia/Shanghai
+  RECENT_LASTEST: false
+  TZ: Asia/Jakarta
 
 jobs:
   build:
